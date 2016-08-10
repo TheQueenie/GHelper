@@ -3664,7 +3664,7 @@ IfInString, read, %str%
 return
 }
 }
-buildscr = 1
+buildscr = 2
 downlurl := "https://raw.githubusercontent.com/TheQueenie/GHelper/master/Version.ini"
 downllen := "https://raw.githubusercontent.com/TheQueenie/GHelper/master/Version.ini"
 Utf8ToAnsi(ByRef Utf8String, CodePage = 1251)
